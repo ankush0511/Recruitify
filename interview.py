@@ -265,7 +265,7 @@ class Interview:
 
     def run(self):
         apply_custom_css()  # Apply the custom CSS
-        st.markdown('<h1>🎙️ AI-Powered Interview Practice</h1>', unsafe_allow_html=True)
+        st.markdown('<h1>🎙️Interview assistant</h1>', unsafe_allow_html=True)
         self.sidebar_upload_and_summary()
         if not st.session_state.questions:
             st.info("Please upload a question file to start the interview.")
