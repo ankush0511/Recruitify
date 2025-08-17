@@ -1,7 +1,6 @@
-
+import patch_sqlite
 import streamlit as st
 import asyncio
-import time
 import nest_asyncio
 from interview import Interview
 nest_asyncio.apply()

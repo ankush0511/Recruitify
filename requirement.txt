@@ -13,4 +13,5 @@ groq
 plotly
 streamlit-mic-recorder
 deepgram
-nest-asyncio
+nest_asyncio
+pysqlite3-binary
