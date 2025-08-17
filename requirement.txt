@@ -13,3 +13,4 @@ groq
 plotly
 streamlit-mic-recorder
 deepgram
+nest-asyncio
