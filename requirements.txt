@@ -12,6 +12,10 @@ google-search-results
 groq
 plotly
 streamlit-mic-recorder
+<<<<<<< HEAD
 deepgram-sdk
 nest-asyncio
+=======
+deepgram
+>>>>>>> dc77a3adbea2d8a22e5dfd1f00ab2ac59be953fa
 pysqlite3-binary
